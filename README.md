@@ -388,6 +388,4 @@ imbalanced-learn>=0.11.0
 
 **© 2025 HawkPay - Smart Fraud Detection. All Rights Reserved.**
 
-[⭐ Star this repo](https://github.com/abhishekgiri04/HawkPay-Smart_Fraud_Detection) • [🐛 Report Bug](https://github.com/abhishekgiri04/HawkPay-Smart_Fraud_Detection/issues) • [💡 Request Feature](https://github.com/abhishekgiri04/HawkPay-Smart_Fraud_Detection/issues)
-
 </div>
