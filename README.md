@@ -149,7 +149,7 @@ HawkPay - Smart Fraud Detection/
 
 **1. Clone the Repository**
 ```bash
-git clone https://github.com/abhishekgiri04/HawkPay-Smart_Fraud_Detection.git
+git clone https://github.com/AbhishekGiri04/HawkPay.git
 cd "HawkPay-Smart_Fraud_Detection"
 ```
 
