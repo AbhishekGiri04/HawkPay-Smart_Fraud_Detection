@@ -113,6 +113,7 @@ HawkPay - Smart Fraud Detection/
 ├── 📄 model.pkl                      # 🤖 Production-ready LightGBM model
 ├── 📄 requirements.txt               # 📦 Python dependencies and versions
 ├── 📄 .gitignore                     # 🚫 Git ignore configuration
+├── 📄 LICENSE                        # 📜 MIT License file
 └── 📄 README.md                      # 📖 Project documentation and setup guide
 ```
 <br>
@@ -357,8 +358,7 @@ imbalanced-learn>=0.11.0
 
 ## 📞 Help & Contact
 
-> 💬 *Got a question, suggestion, or need help with HawkPay?*  
-> We're here to assist and collaborate!
+> 💬 *Got questions or need assistance with HawkPay? We're here to help with integration and customization!*
 
 <div align="center">
 
@@ -374,6 +374,12 @@ imbalanced-learn>=0.11.0
 </a>
 
 <br/>
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
